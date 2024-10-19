@@ -1,0 +1,13 @@
+header {
+    height: 100vh;
+}
+
+#display:focus {
+    outline: none;
+}
+
+.buton:hover {
+    background-color: #7c8288 !important;
+    color: orange;
+    transition: .3s;
+}
